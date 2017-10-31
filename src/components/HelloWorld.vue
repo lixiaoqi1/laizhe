@@ -1,5 +1,5 @@
 <template>
- <div class="header">{{msg}}:{{age}}</div>
+ <div class="header">{{msg}}:{{age}}对面维恩服务</div>
 </template>
 
 <script>
